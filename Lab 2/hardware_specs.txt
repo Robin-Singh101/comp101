@@ -1,0 +1,6 @@
+Computer Type: HP EliteBook  830 G8 Notebook PC
+CPU: 11th Gen Intel Core i5-1145G7 @ 2.60 GHz
+Memory: 16 GB
+OS: Microsoft Windows 11 Pro
+HD: 236.2 GB
+Display Resolution: 1920x1080
